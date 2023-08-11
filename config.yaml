@@ -1,0 +1,7 @@
+path: \\VAPP-SRV-FS3\axc22$\Projects\Image_recognition\data
+train: train/images #relative path
+val: train/images #relative path
+
+#classes: add each object I wish the model to detect
+names:
+  0: pole
